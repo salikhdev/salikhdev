@@ -4,9 +4,9 @@
 </div>  
   
 
-# <div align="center">Fulstack Developer</div>
+# <div align="center">Fullstack Developer</div>
 
-# <div align="center">Hi 👋! I'm salikhdev. I'm Fulstack developer from Uzbekistan with love</div>
+# <div align="center">Hi 👋! I'm salikhdev. I'm Fullstack developer from Uzbekistan with love</div>
 
 <br />
 
